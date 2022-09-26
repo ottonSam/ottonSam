@@ -1,5 +1,5 @@
 <div>
-<img style="background-color: white" align="right" src="https://i.imgur.com/yiHjCW1.png" width="280" />
+<img style="background-color: white" align="right" alt="Make by: https://picrew.me/image_maker/1322863" src="https://i.imgur.com/THXD5d2.png" width="280" />
 
 ## Hello world, it's my Otton!
 
